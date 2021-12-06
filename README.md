@@ -3,6 +3,6 @@
 
 <h2>JS</h2>
  https://eloquentjavascript.net
- 
+ https://github.com/leonardomso/33-js-concepts (33-js-concepts)
  <h2>Framework or library in JS</h2>
  https://eloquentjavascript.net/00_intro.html (Vanila JS)
