@@ -13,7 +13,4 @@
 
 ## 추천 자료
 
-### 개앞맵시 (책 추천 마인드맵..?)
-[기본기 레벨업](https://www.mindmeister.com/ko/529620367/)
-
-[스카이넷도 딥러닝부터](https://www.mindmeister.com/ko/812276967/)
+[개앞맵시 (책 추천 마인드맵..?)](https://www.mindmeister.com/ko/users/channel/86528)
