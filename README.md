@@ -8,8 +8,12 @@
  
  ## Framework or library in JS
  [Vanila JS](https://eloquentjavascript.net/00_intro.html)
-
-
+ 
+ 
+ ## React Native (앱 개발)
+ [Expo 개발사 공식 사이트](https://expo.dev/)
+ [Expo 공식 문서](https://docs.expo.dev/)
+ [Expo Snack - 앱 개발용 웹 IDE](https://snack.expo.dev/)
 
 ## 추천 자료
 
