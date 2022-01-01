@@ -24,5 +24,6 @@
 
 ## 추천 자료
 [데이터 사이언스 랩 - 파비 블로그(상당히 볼 것 많은 블로그)](https://www.notion.so/e0f3193c40fd47ab9d65ca25ae70ca13#4b34c11e134848fe9a973998d5b5d9d7)
+
 [개앞맵시 (책 추천 마인드맵..?)](https://www.mindmeister.com/ko/users/channel/86528)
 
